@@ -1,0 +1,6 @@
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\BaseballStats\BaseballStats\bin\Debug\BaseballStats.exe.config
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\BaseballStats\BaseballStats\bin\Debug\BaseballStats.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\BaseballStats\BaseballStats\bin\Debug\BaseballStats.pdb
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\BaseballStats\BaseballStats\obj\Debug\BaseballStats.csprojResolveAssemblyReference.cache
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\BaseballStats\BaseballStats\obj\Debug\BaseballStats.exe
+C:\Users\Nathaniel\Desktop\DCC Lectures\C# projects\Week 1\BaseballStats\BaseballStats\obj\Debug\BaseballStats.pdb
